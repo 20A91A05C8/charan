@@ -4,7 +4,7 @@ c=int(input(enter value:))
 Sum=a+b+c
 print('sum=%d'%sum) 
 avg=sum/3
-print('average=%2f%avg) 
+print('average=%2f'%avg) 
 
 
 #expected output
