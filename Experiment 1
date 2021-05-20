@@ -2,9 +2,9 @@ a=int(input(enter value:))
 b=int(input(enter value:))
 c=int(input(enter value:))
 Sum=a+b+c
-print(sum=) 
+print('sum=%d'%sum) 
 avg=sum/3
-print(average=) 
+print('average=%2f%avg) 
 
 
 #expected output
@@ -12,4 +12,4 @@ enter value:2
 enter value:1
 enter value:3
 Sum=6
-average=2
+average=2.0
