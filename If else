@@ -6,12 +6,22 @@ else:            #False
 '''
 #Python program to read age of student and check whether
 #student is eligible for vote or not
-name=raw_input("Enter input")#String
-age=int(raw_input("Enter age"))#int
+
+
+
+name=raw_input("Enter input:")#String
+age=int(raw_input("Enter age:"))#int
 #Check condition
 if age>=18:
-      print "Hello",name
+      print "Hi",name
       print("You are Eligible for Vote")
 else:
       print "Sorry!",name
       print "Not elgible for vote due to",age
+
+
+
+'''''Output: Enter input:charan
+             Enter age:19
+             Hi charan
+             You are Eligible for vote'''''
