@@ -1,0 +1,15 @@
+#even or odd
+
+
+a=int(input("enter number"))
+if(a%2==0):
+   print("even number")
+else:
+   print("odd number")
+
+
+
+
+output:                  output:
+enter number53    (Or)         enter number42
+odd number                     even number
