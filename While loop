@@ -1,0 +1,19 @@
+Start_ valueint( input("enter start value:"))
+End__value=int(input("enter end value:")) 
+Step count=int(input("enter step count value:")) 
+While (start<=end): 
+         Print( start_value) 
+         Start_value=start_value+stepcount
+ 
+
+
+''''Output:
+enter start value:2
+enter end value:10
+enter step count value:2
+2
+4
+6
+8
+10       
+                    '''''   
